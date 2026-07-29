@@ -1,0 +1,8 @@
+pandas
+openpyxl
+ydata-profiling
+setuptools<82
+StandardScaler
+scikit-learn
+matplotlib
+seaborn

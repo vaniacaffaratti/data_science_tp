@@ -4,3 +4,6 @@
 # Ignore generated reports and temporary notebook checkpoints
 Parte-1/EDA/reporte_ydata_profiling.html
 .ipynb_checkpoints/
+
+# Ignore virtual environments
+.venv/
