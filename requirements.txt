@@ -6,3 +6,4 @@ StandardScaler
 scikit-learn
 matplotlib
 seaborn
+prince
