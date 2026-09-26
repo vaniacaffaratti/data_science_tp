@@ -1,3 +1,17 @@
+# Ignore macOS metadata files
+.DS_Store
+
+# Ignore temporary working files
+tmp/
+*.inspect.ndjson
+
+# Ignore large downloaded fraud datasets
+notebooks/Parte-2/fraudTrain.csv
+notebooks/Parte-2/fraudTest.csv
+
+# Ignore generated training artifacts
+notebooks/Parte-2/Entrenamiento/resultados_entrenamiento/
+
 # Ignore Excel source data files
 *.xlsx
 
