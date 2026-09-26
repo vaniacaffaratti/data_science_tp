@@ -4,6 +4,7 @@
 # Ignore temporary working files
 tmp/
 *.inspect.ndjson
+notebooks/Borrador/
 
 # Ignore large downloaded fraud datasets
 notebooks/Parte-2/fraudTrain.csv
