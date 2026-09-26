@@ -15,5 +15,6 @@ source .venv/bin/activate
 .venv/bin/pip install -r requirements.txt
 ```
 
-
+En la parte II no se incluyeron los .csv por su peso, si se desea consultarlos se pueden descargarlos del siguiente link 
+https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
 
