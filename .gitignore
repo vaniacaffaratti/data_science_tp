@@ -12,12 +12,15 @@ notebooks/Parte-2/fraudTest.csv
 # Ignore generated training artifacts
 notebooks/Parte-2/Entrenamiento/resultados_entrenamiento/
 
-# Ignore Excel source data files
-*.xlsx
+# Ignore temporary Excel lock files
+~$*.xlsx
 
-# Ignore generated reports and temporary notebook checkpoints
-Parte-1/EDA/reporte_ydata_profiling.html
+# Ignore temporary notebook checkpoints
 .ipynb_checkpoints/
 
 # Ignore virtual environments
 .venv/
+
+# Ignore Python bytecode caches
+__pycache__/
+*.py[cod]
